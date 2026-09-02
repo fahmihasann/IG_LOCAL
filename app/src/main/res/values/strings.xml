@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IG LOCAL</string>
+
+    <string name="app_header">IG.LOCAL</string>
+    <string name="username">fahmi hasan</string>
+
+    <string name="lbl_post">post</string>
+    <string name="lbl_follower">follower</string>
+    <string name="lbl_following">following</string>
+
+    <string name="post_count">1</string>
+    <string name="follower_count">300</string>
+    <string name="following_count">250</string>
+
+    <string name="bio_txt">Hello, I am Fahmi Hasan!</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="share_profile">Share Profile</string>
+
+    <string name="post_image">Post Image</string>
+</resources>
