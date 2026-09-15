@@ -1,13 +1,11 @@
 plugins {
     alias(libs.plugins.android.application)
 }
-
 android {
     namespace = "com.example.iglocal"
     compileSdk {
         version = release(37)
     }
-
     defaultConfig {
         applicationId = "com.example.iglocal"
         minSdk = 24
